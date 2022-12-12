@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Do you agree to take part?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Danina Lupsa" changedate="20221212T140957Z" creationid="Danina Lupsa" creationdate="20221212T140957Z">
+        <seg>Vous souhaitez participer?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to this survey!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Danina Lupsa" changedate="20221212T140940Z" creationid="Danina Lupsa" creationdate="20221212T140940Z">
+        <seg>Bienvenue à cette enquête.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
