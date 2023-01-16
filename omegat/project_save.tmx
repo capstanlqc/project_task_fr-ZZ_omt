@@ -165,5 +165,15 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">rep-in-one-file.md</prop>
+      <prop type="id">tu2_0</prop>
+      <tuv lang="en">
+        <seg>Good</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T195900Z" creationid="danina-lupsa" creationdate="20230116T195900Z">
+        <seg>Bonne</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
