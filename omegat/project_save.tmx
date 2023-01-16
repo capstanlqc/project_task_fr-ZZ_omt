@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>Bad</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230115T120843Z" creationid="souto" creationdate="20230115T120843Z">
-        <seg>x</seg>
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T190941Z" creationid="souto" creationdate="20230115T120843Z">
+        <seg>Mauvaise</seg>
       </tuv>
     </tu>
     <tu>
@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>Good</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230115T120842Z" creationid="souto" creationdate="20230115T120842Z">
-        <seg>x</seg>
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T190937Z" creationid="souto" creationdate="20230115T120842Z">
+        <seg>Bonne</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +34,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="souto" changedate="20230115T120839Z" creationid="souto" creationdate="20230115T120839Z">
         <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How is your economic situation?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T190934Z" creationid="danina-lupsa" creationdate="20230116T190934Z">
+        <seg>Quelle est votre situation économique ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Danina Lupsa" changedate="20221212T140940Z" creationid="Danina Lupsa" creationdate="20221212T140940Z">
         <seg>Bienvenue à cette enquête.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is your level of English as a foreign language?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T191028Z" creationid="danina-lupsa" creationdate="20230116T191028Z">
+        <seg>Quel est votre niveau d'anglais (langue étrangère)</seg>
       </tuv>
     </tu>
     <tu>
