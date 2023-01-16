@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Email message</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192909Z" creationid="danina-lupsa" creationdate="20230116T192909Z">
+        <seg>Courriel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Good</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T190937Z" creationid="souto" creationdate="20230115T120842Z">
@@ -46,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Library Catalog</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192735Z" creationid="danina-lupsa" creationdate="20230116T192735Z">
+        <seg>Catalogue de la bibliothèque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="souto" changedate="20230115T120838Z" creationid="souto" creationdate="20230115T120838Z">
@@ -58,6 +74,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="souto" changedate="20230115T120823Z" creationid="souto" creationdate="20230115T120823Z">
         <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subject:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192859Z" creationid="danina-lupsa" creationdate="20230116T192753Z">
+        <seg>Sujet :</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +122,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="souto" changedate="20230115T120837Z" creationid="souto" creationdate="20230115T120837Z">
         <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>biotechnology</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192851Z" creationid="danina-lupsa" creationdate="20230116T192851Z">
+        <seg>biotechnologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>genetically modified</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192823Z" creationid="danina-lupsa" creationdate="20230116T192823Z">
+        <seg>génétiquement modifié</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
