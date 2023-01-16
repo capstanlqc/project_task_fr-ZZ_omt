@@ -94,14 +94,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Please select one response.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230115T120823Z" creationid="souto" creationdate="20230115T120823Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Subject:</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T193321Z" creationid="danina-lupsa" creationdate="20230116T192753Z">
