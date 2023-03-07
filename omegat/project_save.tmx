@@ -54,14 +54,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Do you wish to continue?</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214221Z" creationid="danina-lupsa" creationdate="20230116T214221Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Email message</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192909Z" creationid="danina-lupsa" creationdate="20230116T192909Z">
@@ -73,14 +65,6 @@
         <seg>He also used non-breaking spaces, when needed.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214210Z" creationid="danina-lupsa" creationdate="20230116T214210Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>How is the current economic situation in your country?</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230115T120839Z" creationid="souto" creationdate="20230115T120839Z">
         <seg>x</seg>
       </tuv>
     </tu>
@@ -102,33 +86,9 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Neither good nor bad</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214223Z" creationid="danina-lupsa" creationdate="20230116T214223Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>No</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230116T210523Z" creationid="souto" creationdate="20230115T120838Z">
-        <seg>٥</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Once upon a time there was a translator who worked in OmegaT.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214209Z" creationid="danina-lupsa" creationdate="20230116T214209Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Please select one response.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214219Z" creationid="danina-lupsa" creationdate="20230116T214219Z">
         <seg>x</seg>
       </tuv>
     </tu>
@@ -174,42 +134,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Very bad</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214221Z" creationid="danina-lupsa" creationdate="20230116T214221Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Very good</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230115T120923Z" creationid="souto" creationdate="20230115T120839Z">
-        <seg>Très bonne</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>What is your level of English as a foreign language?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T194728Z" creationid="danina-lupsa" creationdate="20230116T191028Z">
         <seg>Quel est votre niveau d'anglais (langue étrangère) ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>What is your level of English as a second language?</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214222Z" creationid="danina-lupsa" creationdate="20230116T214222Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Yes</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230116T204257Z" creationid="souto" creationdate="20230115T120837Z">
-        <seg> x</seg>
       </tuv>
     </tu>
     <tu>
