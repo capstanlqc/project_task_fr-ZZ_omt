@@ -72,7 +72,15 @@ Did you follow the steps above? If you did, now notice
 
 Press Enter to move to segment #6 and do the same steps as above.
 
+If you want more practice, go to segment #29 ("Subject:"), which is also repeated
 
+## Section 04: Tags
+
+## Section 05. Matches < MS: WIP
+## Section 06. Autotext
+## Section 07. Search: AM
+## Section 08. QA checks: AM
+## Section 09. Download git project + commit target files + helpdesk
 
 ---
 
