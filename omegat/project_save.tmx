@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_eb74c0cd8" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30,26 +30,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Bad</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T190941Z" creationid="souto" creationdate="20230115T120843Z">
-        <seg>Mauvaise</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Before delivery, the translator performed a few quality assurance checks: for example on completion and tag errors.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214211Z" creationid="danina-lupsa" creationdate="20230116T214211Z">
         <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Carbon dioxide (CO₂) dissolves in seawater to form carbonic acid.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214212Z" creationid="danina-lupsa" creationdate="20230116T211914Z">
-        <seg>xEl dióxido de carbono (CO₂)</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,14 +70,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Good</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T201815Z" creationid="souto" creationdate="20230115T120842Z">
-        <seg>Bon</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>He also used non-breaking spaces, when needed.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214210Z" creationid="danina-lupsa" creationdate="20230116T214210Z">
@@ -114,14 +90,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T190934Z" creationid="danina-lupsa" creationdate="20230116T190934Z">
         <seg>Quelle est votre situation économique ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>In a field study, scientists investigated the effect of ocean acidification on the shells of pteropods (planktonic snails).</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214213Z" creationid="danina-lupsa" creationdate="20230116T214213Z">
-        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,26 +134,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Pteropod Shells</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214212Z" creationid="danina-lupsa" creationdate="20230116T211503Z">
-        <seg>xConchas de pterópodos</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Subject:</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T193321Z" creationid="danina-lupsa" creationdate="20230116T192753Z">
         <seg>Objet :</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The shells contain calcium carbonate.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214213Z" creationid="danina-lupsa" creationdate="20230116T214213Z">
-        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,30 +174,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>They collected pteropods and several water samples from each site.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214214Z" creationid="danina-lupsa" creationdate="20230116T214214Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>They then examined the shells for small holes called pits.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214214Z" creationid="danina-lupsa" creationdate="20230116T214214Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The process is known as ocean acidification.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214212Z" creationid="danina-lupsa" creationdate="20230116T214212Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>To ensure consistency, the translator used the fuzzy matches and performed concordance searches.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214211Z" creationid="danina-lupsa" creationdate="20230116T214211Z">
@@ -266,30 +194,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="souto" changedate="20230115T120923Z" creationid="souto" creationdate="20230115T120839Z">
         <seg>Très bonne</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Water is 'saturated' if the maximum amount of a solute is dissolved in it.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214215Z" creationid="danina-lupsa" creationdate="20230116T214215Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Water is 'undersaturated' if it contains less than the maximum amount of dissolved solute.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214215Z" creationid="danina-lupsa" creationdate="20230116T214215Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Welcome to this survey!</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214217Z" creationid="Danina Lupsa" creationdate="20221212T140940Z">
-        <seg>xBienvenue à cette enquête.</seg>
       </tuv>
     </tu>
     <tu>
