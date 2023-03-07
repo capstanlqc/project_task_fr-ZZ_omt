@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Good</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="souto" changedate="20230307T152944Z" creationid="souto" creationdate="20230307T152944Z">
+        <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He also used non-breaking spaces, when needed.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214210Z" creationid="danina-lupsa" creationdate="20230116T214210Z">
