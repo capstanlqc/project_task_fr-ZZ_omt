@@ -30,14 +30,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Bad</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230307T153105Z" creationid="souto" creationdate="20230307T153105Z">
-        <seg>y</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Before delivery, the translator performed a few quality assurance checks: for example on completion and tag errors.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214211Z" creationid="danina-lupsa" creationdate="20230116T214211Z">
@@ -74,14 +66,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192909Z" creationid="danina-lupsa" creationdate="20230116T192909Z">
         <seg>Courriel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Good</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230307T152944Z" creationid="souto" creationdate="20230307T152944Z">
-        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
