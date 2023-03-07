@@ -5,7 +5,14 @@
 1. Download project package [xxx](XXX). @For the time being available at https://github.com/capstanlqc/project_task_fr-ZZ_omt
 2. Unpack that project.
 
-## Topic 02: Repetitions 
+## Section 01: Navigation @WIP
+
+- Ctrl+U
+- Enter / Ctrl+Enter
+- Double click
+- Ctrl+J
+
+## Section 02: Repetitions 
 
 ### Exercise 02.1
 
@@ -35,11 +42,13 @@
     > You can also save in Project > Save.
 3. Undo your changes (e.g. you may press Ctrl+Z)
 
-## Topic 03: Alternative repetitions
+## Section 03: Alternative repetitions
 
 In the previous section you have seen that translations of repeated segments auto-propagate when you create. Edits you make to the translation of a repeated segment will also auto-propagate to all intances of that repeated segment.
 
 That is convenient in many cases, but not always. To prevent auto-propagation, you must create an alternative translation.
+
+### Exercise 03.1
 
 Go to segment #5 in the project. You can see that it is pretranslated with an auto-propagated translation.
 
@@ -68,10 +77,3 @@ Press Enter to move to segment #6 and do the same steps as above.
 ---
 
 
-# Navigation:
-
-- Ctrl+U
-- Enter / Ctrl+Enter
-- Double click
-- Ctrl+J
-- filter files... File filter (Ctrl+L or from Project)
