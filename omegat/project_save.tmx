@@ -22,22 +22,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>After delivery, the translator took a well-deserved rest!</seg>
-      </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T214211Z" creationid="danina-lupsa" creationdate="20230116T214211Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Before delivery, the translator performed a few quality assurance checks: for example on completion and tag errors.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T214211Z" creationid="danina-lupsa" creationdate="20230116T214211Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Dear subscriber,</seg>
       </tuv>
       <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T193317Z" creationid="danina-lupsa" creationdate="20230116T193317Z">
@@ -62,14 +46,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>He also used non-breaking spaces, when needed.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T214210Z" creationid="danina-lupsa" creationdate="20230116T214210Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>How is your economic situation?</seg>
       </tuv>
       <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T190934Z" creationid="danina-lupsa" creationdate="20230116T190934Z">
@@ -86,26 +62,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Once upon a time there was a translator who worked in OmegaT.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T214209Z" creationid="danina-lupsa" creationdate="20230116T214209Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Subject:</seg>
       </tuv>
       <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T193321Z" creationid="danina-lupsa" creationdate="20230116T192753Z">
         <seg>Objet :</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The translator also added recurring terms to the glossary, such as “the translator”.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T214211Z" creationid="danina-lupsa" creationdate="20230116T214211Z">
-        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,22 +82,6 @@
       </tuv>
       <tuv lang="fr" changeid="souto" changedate="20230307T162938Z" creationid="souto" creationdate="20230307T162938Z">
         <seg>Le traducteur a dû prêter attention à la mise en forme telle que l'gras, l'&lt;s0&gt;italique, le soulignement.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The translator had to pay attention to “quotation marks”.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T214210Z" creationid="danina-lupsa" creationdate="20230116T214210Z">
-        <seg>x</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>To ensure consistency, the translator used the fuzzy matches and performed concordance searches.</seg>
-      </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T214211Z" creationid="danina-lupsa" creationdate="20230116T214211Z">
-        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
