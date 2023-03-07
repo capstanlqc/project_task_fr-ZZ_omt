@@ -16,7 +16,9 @@
         </response>
         <response>
      
-          <label>Neither good nor bad</label>
+          <label keyx="123abc">
+            <text>Neither good nor bad</text>
+          </label>
         </response>
         <response>
       
