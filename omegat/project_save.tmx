@@ -16,8 +16,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;Don’t Open This Email&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T193133Z" creationid="danina-lupsa" creationdate="20230116T193133Z">
-        <seg>&lt;g1&gt;N'ouvrez pas cet e-mail&lt;/g1&gt;</seg>
+      <tuv lang="fr-FR" changeid="souto" changedate="20230307T162758Z" creationid="danina-lupsa" creationdate="20230116T193133Z">
+        <seg>N'&lt;g1&gt;ouvrez pas cet e-mail&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
