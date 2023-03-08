@@ -1,0 +1,87 @@
+<!doctype html>
+
+<head>
+<meta charset='UTF-8' />
+<style>
+div.instruction {
+	font-size: 120%;
+	margin-bottom: 20px;
+}
+body {
+	transform: scale(1.2);
+	max-width: 50%;
+	min-width: 600px;
+	margin: auto;
+	padding: 50px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h2 {
+	background-color: #CDCDCD;
+	margin: 2px;
+	padding: 5px;
+}
+h2:before {
+	content: attr(id) '  ';
+}
+input[type=radio] {
+	display: block;
+	float:left;
+}
+ul.response-options {
+	list-style: none;
+}
+</style>
+</head>
+<body>
+<div id="content">
+  <h1>Welcome to this survey!</h1><hr />
+  <h2 class="question" id="Q1">Vous souhaitez participer?</h2>
+  <div class="instruction">Il n’y a pas de <em>bonne</em> réponse. Please select one response.</div>
+  <ul class="response-options">
+    <li><input type="radio" id="yes-01" name="yes" />
+			<label for="yes-01">Yes</label>
+		</li>
+    <li><input type="radio" id="no-01" name="no" />
+			<label for="yes-01">No</label>
+		</li>
+  </ul>
+   <h2 class="question" id="Q2">How is the current economic situation in your country?</h2>
+  <ul class="response-options">
+    <li><input type="radio" id="very-good-01" name="very-good" />
+			<label for="yes-01">Very good</label>
+		</li>
+    <li><input type="radio" id="good-01" name="good" />
+			<label for="yes-01">Good</label>
+		</li>
+		<li><input type="radio" id="bad-01" name="bad" />
+			<label for="yes-01">Bad</label>
+		</li>
+		<li><input type="radio" id="very-bad-01" name="very-bad" />
+			<label for="yes-01">Very bad</label>
+		</li>
+  </ul>
+  <h2 class="question" id="Q3">Do you wish to continue?</h2>
+  <ul class="response-options">
+    <li><input type="radio" id="yes-02" name="yes" />
+			<label for="yes-02">Yes</label>
+		</li>
+    <li><input type="radio" id="yes-02" name="yes" />
+			<label for="yes-02">No</label>
+		</li>
+  </ul>
+
+</div>
+<script type='text/javascript'>
+	/* do not display rows that are hidden in the MRT Excel file */
+	document.querySelectorAll(".hide").forEach(node => { node.style.display = "none" })
+	/* change directionality if the target language is Arabic (and derivates) or Hebrew */
+	const bodyText = document.body.innerText
+	const regex = /\p{Script=Arabic}|\p{Script=Hebrew}/u
+	const bidiFound = bodyText.match(regex)
+	if (bidiFound) {
+		document["dir"] = "rtl"
+		document.querySelectorAll("input[type=radio]").forEach(i => { i.style.float = "right" })
+	}
+</script>
+</body>
+</html>
