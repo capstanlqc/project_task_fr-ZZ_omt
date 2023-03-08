@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Carbon dioxide (CO₂) dissolves in seawater to form carbonic acid.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T154550Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T154550Z">
+        <seg>Le dioxyde de carbone (CO\sub2) se dissout dans l'eau de mer pour former de l'acide carbonique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dear subscriber,</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T193317Z" creationid="danina-lupsa" creationdate="20230116T193317Z">
