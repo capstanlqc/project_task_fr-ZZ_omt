@@ -107,6 +107,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>How does one do that?</note>
+      <tuv lang="en">
+        <seg>To ensure consistency, the translator used the fuzzy matches and performed concordance searches.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Very satisfied</seg>
       </tuv>
