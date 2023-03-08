@@ -8,11 +8,13 @@
 > Tip: to go to a specific segment, you can press Ctrl+J and enter the segment number.
 
 ## Section 01: Navigation @WIP
-
+<!--
 - Ctrl+U
 - Enter / Ctrl+Enter
 - Double click
 - Ctrl+J
+
+-->
 
 <!---Check segment numbers!!-->
 
@@ -183,6 +185,18 @@ Using the search function, try to find the following segments in the project:
 
 ## Section 09. Download git project + commit target files + helpdesk
 
+<!--Check URL?!-->
+
+1. Copy this URL to your clipboard (select it and press Ctrl+C): https://github.com/capstanlqc-pisa/PISA_2025_fr-ZZ_Verification_OMT.git
+2. Open OmegaT, click on the Project menu, select "Download Team Project".
+3. Click inside the Repository URL field and press Ctrl+V to paste the URL you have copied.
+4. Click inside the New Local Project Folder field.
+>OmegaT will propose a default path for you, if that path is not suitable you can edit it to have the project created in your preferred location
+
+>**Note**
+>We advise you to use an easy path to remember, such as a folder in your Documents folder
+
+5. Press OK, the project will be loaded after a few seconds.
 
 ---
 
