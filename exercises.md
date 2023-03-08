@@ -5,6 +5,8 @@
 1. Download project package [xxx](XXX). @For the time being available at https://github.com/capstanlqc/project_task_fr-ZZ_omt
 2. Unpack that project.
 
+> TIp: to go to a specific segment, you can press Ctrl+J and enter the segment number.
+
 ## Section 01: Navigation @WIP
 
 - Ctrl+U
@@ -78,9 +80,9 @@ info: If you want more practice, go to segment #29 ("Subject:"), which is also r
 
 ## Section 04: Tags
 
-### Exercise 04.1
+### Exercise 04.1: insert tags
 
-1. Go to segment #9 “There are no &lt;g1&gt;right&lt;/g1&gt; answers.” <!-- segment should be untranslated -->
+1. Go to segment #9 (“There are no &lt;g1&gt;right&lt;/g1&gt; answers.”) <!-- segment should be untranslated -->
 2. Notice the tags in the segment.
     > @quiz: what do you think these are? How to we handle them: should we ignore them or reproduce them in the translation?
 3. Translate segment #9. Suggested translation: "Il n’y a pas de bonne réponse."
@@ -90,15 +92,35 @@ info: If you want more practice, go to segment #29 ("Subject:"), which is also r
 7. Select the first option <g1>|</g1> and press Enter.
 8. Notice how the tags are inserted around the selected text in the translation.
 
-### Exercise 04.2
+### Exercise 04.2: relocate tag
 
-1. Go to Segment #30 “<g1>Don’t Open This Email</g1>” 
-@quiz: what do you notice?
-2. You need to move the tag <g1>, it has the be around the same content in the target as in the source. 
-3. First option: Double click on the tag <g1> then drag and drop it where it belongs. 
-4. Second option: Double click on the tag <g1> and delete it. Place the cursor where you want the tag to appear, press Ctrl+Space and Enter the tag.
-Exercise 04.03
-1. Go to Segment #39: “The translator had to pay attention to formatting such as <g1>bold</g1>, <g2>italics</g2>, <g3>underline</g3>.”
+1. Go to segment #30 (“<g1>Don’t Open This Email</g1>”) <!-- translation: N<g1>'ouvrez pas cet </g1>e-mail -->
+    > @quiz: what do you notice?
+2. Notice how the position of the first tag (tag `<g1>`) is incorrect. You will fix that.
+    > @quiz: it should be at the beginning of the segment / end / in the middle
+3. Double click on the tag `<g1>` to select it.
+4. Now drag and drop it to the correct position.
+    > tip: the paired tags should also include "N"  
+    > hidden tip: shows the expected result (the solution)
+
+> Tip for RTL languages.. @todo please use the helpdesk if you find a complicated situation
+
+Well done!
+
+### Exercise 04.3: re-insert tag
+
+1. Still in segment #30 (“<g1>Don’t Open This Email</g1>”) <!-- translation is now: <g1>N'ouvrez pas cet </g1>e-mail -->
+2. Notice the the position of the second tag (`</g1>`) is also incorrect.
+3. Double click on the tag `<g1>` to select it.
+4. Press +del+ on your keyboard to delete the tag.
+5. Place the cursor (e.g. just click) where you want the tag to appear instead
+6. Use the auto-completer to insert the tag
+    > tip: ctrl+space
+
+> hidden tip: shows the expected result (the solution)
+
+### Exercise 04.04
+1. Go to segment #39: “The translator had to pay attention to formatting such as <g1>bold</g1>, <g2>italics</g2>, <g3>underline</g3>.”
 2. Notice how the tags are missing around every corresponding text in the translation. 
 3. Select the translation of “bold” (i.e.: “le gras”), press Ctrl+Space and insert the tag pairs. 
 4. Notice how the automatically surround the selected word. 
