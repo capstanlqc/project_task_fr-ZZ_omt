@@ -139,6 +139,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Thermal conductivity coefficient &lt;br/&gt;(W/m × K)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T160626Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T160626Z">
+        <seg>Coefficient de conductivité thermique &lt;br/&gt;(W/m × K)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>How?</note>
       <tuv lang="en">
         <seg>To ensure consistency, the translator used the fuzzy matches and performed concordance searches.</seg>
