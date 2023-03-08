@@ -92,7 +92,36 @@ info: If you want more practice, go to segment #29 ("Subject:"), which is also r
 7. Select the first option <g1>|</g1> and press Enter.
 8. Notice how the tags are inserted around the selected text in the translation.
 
-### Exercise 04.2: relocate tag
+
+### Exercise 04.2: see what tags stand for
+
+<!-- translation: Le traducteur a dû prêter attention au formatage tel que le gras, l'italique, le soulignement</g3>. -->
+1. Go to segment #39: “The translator had to pay attention to formatting such as <g1>bold</g1>, <g2>italics</g2>, <g3>underline</g3>.”
+2. Hover over the tags with your mouse to see the HTML code the tags stand for.
+    > tip: `<strong>`, `<em>`, `<span class="underline">` etc.
+
+
+### Exercise 04.3: insert standalone tag
+
+@todo
+
+### Exercise 04.4: insert more tags
+
+1. Still in segment #39, notice how most tags are missing in the translation.
+2. Select the translation of “bold” (tip: “le gras”).
+3. Press Ctrl+Space to open the "Missing tags" section in the auto-completer
+4. The first line (i.e. `<g1></g1>`) is selected by default. Press Enter to insert that tag pair.
+4. Notice how the tags have been inserted around the selected text (i.e. `<g1>le gras</g1>`)
+5. Do the same for the translation of “italics” (tip: “l’italique”). 
+5. Do the same for the translation of “underline” (tip: “le soulignement”). 
+
+> @quiz: insert 
+
+### Exercise 04.5: relocate tag
+
+<!-- more for editors! -->
+
+In this exercise, you'll practice how to move a tag.
 
 1. Go to segment #30 (“<g1>Don’t Open This Email</g1>”) <!-- translation: N<g1>'ouvrez pas cet </g1>e-mail -->
     > @quiz: what do you notice?
@@ -107,7 +136,11 @@ info: If you want more practice, go to segment #29 ("Subject:"), which is also r
 
 Well done!
 
-### Exercise 04.3: re-insert tag
+### Exercise 04.6: relocate tag
+
+<!-- more for editors! -->
+
+In this exercise, you'll practice another way to move a tag to its correct position.
 
 1. Still in segment #30 (“<g1>Don’t Open This Email</g1>”) <!-- translation is now: <g1>N'ouvrez pas cet </g1>e-mail -->
 2. Notice the the position of the second tag (`</g1>`) is also incorrect.
@@ -119,12 +152,6 @@ Well done!
 
 > hidden tip: shows the expected result (the solution)
 
-### Exercise 04.04
-1. Go to segment #39: “The translator had to pay attention to formatting such as <g1>bold</g1>, <g2>italics</g2>, <g3>underline</g3>.”
-2. Notice how the tags are missing around every corresponding text in the translation. 
-3. Select the translation of “bold” (i.e.: “le gras”), press Ctrl+Space and insert the tag pairs. 
-4. Notice how the automatically surround the selected word. 
-5. Do the same for the translation of “italics” and “underline” (i.e.: “l’italique” and “le soulignement”). 
 
 ## Section 05. Matches < MS: WIP
 ## Section 06. Autotext
