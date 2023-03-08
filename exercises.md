@@ -12,7 +12,7 @@
 - Double click
 - Ctrl+J
 
-## Section 02: Repetitions 
+## Section 02: Repetitions
 
 ### Exercise 02.1
 
@@ -80,15 +80,15 @@ info: If you want more practice, go to segment #29 ("Subject:"), which is also r
 
 ### Exercise 04.1
 
-1. Go to Segment #9 “There are no <g1>right</g1> answers.”
-2. Notice the tags in the segments.
-@quiz: what do you think these are? How to we handle them: should we ignore them or reproduce them in the translation?
-3. Translate segment #9: “There are no <g1>right</g1> answers.”Suggested translation: "Il n’y a pas de bonne réponse."
-4. Select the corresponding translation of “right” in the target (i.e.: “bonne”) and press Ctrl+Space.
-5. Notice how this opens the auto-completer. 
-6. Press Crtl+Space several times to show all the options. Keep the “Missing tags” window open.
-7. Press Enter after selecting the first option <g1>|</g1>.
-8. Notice how the tags embedded the selected text in the translation. 
+1. Go to segment #9 “There are no &lt;g1&gt;right&lt;/g1&gt; answers.” <!-- segment should be untranslated -->
+2. Notice the tags in the segment.
+    > @quiz: what do you think these are? How to we handle them: should we ignore them or reproduce them in the translation?
+3. Translate segment #9. Suggested translation: "Il n’y a pas de bonne réponse."
+4. Select the corresponding translation of “right” in the translation (i.e. “bonne”).
+5. Press Ctrl+Space. Notice how this opens the auto-completer.
+6. Press Crtl+Space several times to cycle through all the sections. Stop when you reach the “Missing tags”.
+7. Select the first option <g1>|</g1> and press Enter.
+8. Notice how the tags are inserted around the selected text in the translation.
 
 ### Exercise 04.2
 
