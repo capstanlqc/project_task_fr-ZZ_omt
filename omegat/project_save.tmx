@@ -16,8 +16,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;Don’t Open This Email&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230307T162758Z" creationid="danina-lupsa" creationdate="20230116T193133Z">
-        <seg>N'&lt;g1&gt;ouvrez pas cet e-mail&lt;/g1&gt;</seg>
+      <tuv lang="fr-FR" changeid="ad" changedate="20230308T091948Z" creationid="danina-lupsa" creationdate="20230116T193133Z">
+        <seg>N'&lt;g1&gt;ouvrez pas cet e-mail</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>Generally speaking, please tell me &lt;g1&gt;how satisfied&lt;/g1&gt; you are with public transport where you live.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="ad" changedate="20230308T091810Z" creationid="ad" creationdate="20230308T091755Z">
-        <seg>De manière générale, dites-moi si à quel point &lt;/g1&gt;êtes-vous satisfait&lt;g1&gt; avec les transports publics là où vous vivez. </seg>
+      <tuv lang="fr-FR" changeid="ad" changedate="20230308T091906Z" creationid="ad" creationdate="20230308T091755Z">
+        <seg>De manière générale, dites-moi si à quel point &lt;/g1&gt;vous êtes satisfait&lt;g1&gt; avec les transports publics là où vous vivez. </seg>
       </tuv>
     </tu>
     <tu>
