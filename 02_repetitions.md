@@ -31,7 +31,7 @@
     > info: (-NE: feminine suffix, because "Good" here refers to "economic situation", which is feminine in French).
 2. Press Enter after translating segment #2 to go to segment #3.
 3. Notice how the translation is auto-propagated to segment #5.
-4. Translate segment #3: "Bad". Suggested translation: "MauvausE"
+4. Translate segment #3: "Bad". Suggested translation: "MauvaisE"
     > info: (-E: feminine suffix, because "Bad" here refers to "economic situation", which is feminine in French).
 5. Press Enter after translating segment #3 to confirm the translation of segment #3 and go to the next segment.
 
