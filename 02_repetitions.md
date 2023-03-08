@@ -72,7 +72,9 @@ Did you follow the steps above? If you did, now notice
 
 Press Enter to move to segment #6 and do the same steps as above.
 
-If you want more practice, go to segment #29 ("Subject:"), which is also repeated
+info: If you want more practice, go to segment #29 ("Subject:"), which is also repeated a few times. The first occurrence refers to an email subject line, whereas the other occurrences refer to the topic or field of books in a library classification system, so each of those requires a different translation, i.e. "Objet" vs "Sujet".
+
+
 
 ## Section 04: Tags
 
