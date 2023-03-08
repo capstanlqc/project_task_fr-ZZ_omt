@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>Carbon dioxide (CO₂) dissolves in seawater to form carbonic acid.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T154550Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T154550Z">
-        <seg>Le dioxyde de carbone (CO\sub2) se dissout dans l'eau de mer pour former de l'acide carbonique.</seg>
+      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T162222Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T154550Z">
+        <seg>Le dioxyde de carbone (CO2) se dissout dans l'eau de mer pour former de l'acide carbonique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,8 +110,8 @@
       <tuv lang="en">
         <seg>The population density is 62 people per km² in 2023.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T155116Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T155116Z">
-        <seg>La densité de population est de 62 personnes par km² en 2023.</seg>
+      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T162209Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T155116Z">
+        <seg>La densité de population est de 62 personnes par km2 en 2023.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128,14 +128,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="souto" changedate="20230307T162938Z" creationid="souto" creationdate="20230307T162938Z">
         <seg>Le traducteur a dû prêter attention à la mise en forme telle que l'gras, l'&lt;s0&gt;italique, le soulignement.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Thermal conductivity coefficient &lt;br/&gt;(W/m × K)</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T160626Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T160626Z">
-        <seg>Coefficient de conductivité thermique &lt;br/&gt;(W/m × K)</seg>
       </tuv>
     </tu>
     <tu>
