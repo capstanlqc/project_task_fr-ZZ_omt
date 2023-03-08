@@ -102,7 +102,7 @@ info: If you want more practice, go to segment #29 ("Subject:"), which is also r
 4. Select the corresponding translation of “right” in the translation (i.e. “bonne”).
 5. Press Ctrl+Space. Notice how this opens the auto-completer.
 6. Press Crtl+Space several times to cycle through all the sections. Stop when you reach the “Missing tags”.
-7. Select the first option <g1>|</g1> and press Enter.
+7. Select the first option (i.e. `<g1>|</g1>`) and press Enter.
 8. Notice how the tags are inserted around the selected text in the translation.
 
 
