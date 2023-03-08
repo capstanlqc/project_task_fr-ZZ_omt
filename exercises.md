@@ -5,7 +5,7 @@
 1. Download project package [xxx](XXX). @For the time being available at https://github.com/capstanlqc/project_task_fr-ZZ_omt
 2. Unpack that project.
 
-> TIp: to go to a specific segment, you can press Ctrl+J and enter the segment number.
+> Tip: to go to a specific segment, you can press Ctrl+J and enter the segment number.
 
 ## Section 01: Navigation @WIP
 
@@ -13,6 +13,17 @@
 - Enter / Ctrl+Enter
 - Double click
 - Ctrl+J
+
+<!---Check segment numbers!!-->
+
+1. Go to segment number 31 using the Ctrl+J shortcut.
+2. Jump to the next untranslated segment using the Ctrl+U shortcut
+>You should arrive on segment 38
+3. Press Enter to move the next segment
+>You should be on segment 39
+4. Double click on the last segment you see
+>It should read "After delivery, the translator took a well-deserved rest!"
+5. Use the Ctrl+J shortcut to go to segment number 1
 
 ## Section 02: Repetitions
 
@@ -171,6 +182,7 @@ Using the search function, try to find the following segments in the project:
 
 
 ## Section 09. Download git project + commit target files + helpdesk
+
 
 ---
 
