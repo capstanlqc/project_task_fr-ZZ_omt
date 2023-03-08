@@ -116,6 +116,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The population density is 62 people per km² in 2023.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T155116Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T155116Z">
+        <seg>La densité de population est de 62 personnes par km² en 2023.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translator had to pay attention to formatting such as &lt;g1&gt;bold&lt;/g1&gt;, &lt;g2&gt;italics&lt;/g2&gt;, &lt;g3&gt;underline&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="souto" changedate="20230308T143300Z" creationid="danina-lupsa" creationdate="20230116T214209Z">
