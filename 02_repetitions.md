@@ -79,7 +79,20 @@ If you want more practice, go to segment #29 ("Subject:"), which is also repeate
 ## Section 05. Matches < MS: WIP
 ## Section 06. Autotext
 ## Section 07. Search: AM
+
+Using the search function, try to find the following segments in the project:
+
+1. There is one occurence where "Rather unsatisfied" was not translated consistenly, can you find it?
+2. Find the segment with "How" in a note.
+3. Try to find the translation of "translator" in the translation memories.
+4. Find "Subject", but only if it has a translation.
+
 ## Section 08. QA checks: AM
+
+1. There are two segments with tag errors, can you find them?
+2. On which segment is there a glossary error?
+
+
 ## Section 09. Download git project + commit target files + helpdesk
 
 ---
