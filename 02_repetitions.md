@@ -78,6 +78,32 @@ info: If you want more practice, go to segment #29 ("Subject:"), which is also r
 
 ## Section 04: Tags
 
+### Exercise 04.1
+
+1. Go to Segment #9 “There are no <g1>right</g1> answers.”
+2. Notice the tags in the segments.
+@quiz: what do you think these are? How to we handle them: should we ignore them or reproduce them in the translation?
+3. Translate segment #9: “There are no <g1>right</g1> answers.”Suggested translation: "Il n’y a pas de bonne réponse."
+4. Select the corresponding translation of “right” in the target (i.e.: “bonne”) and press Ctrl+Space.
+5. Notice how this opens the auto-completer. 
+6. Press Crtl+Space several times to show all the options. Keep the “Missing tags” window open.
+7. Press Enter after selecting the first option <g1>|</g1>.
+8. Notice how the tags embedded the selected text in the translation. 
+
+### Exercise 04.2
+
+1. Go to Segment #30 “<g1>Don’t Open This Email</g1>” 
+@quiz: what do you notice?
+2. You need to move the tag <g1>, it has the be around the same content in the target as in the source. 
+3. First option: Double click on the tag <g1> then drag and drop it where it belongs. 
+4. Second option: Double click on the tag <g1> and delete it. Place the cursor where you want the tag to appear, press Ctrl+Space and Enter the tag.
+Exercise 04.03
+1. Go to Segment #39: “The translator had to pay attention to formatting such as <g1>bold</g1>, <g2>italics</g2>, <g3>underline</g3>.”
+2. Notice how the tags are missing around every corresponding text in the translation. 
+3. Select the translation of “bold” (i.e.: “le gras”), press Ctrl+Space and insert the tag pairs. 
+4. Notice how the automatically surround the selected word. 
+5. Do the same for the translation of “italics” and “underline” (i.e.: “l’italique” and “le soulignement”). 
+
 ## Section 05. Matches < MS: WIP
 ## Section 06. Autotext
 ## Section 07. Search: AM
