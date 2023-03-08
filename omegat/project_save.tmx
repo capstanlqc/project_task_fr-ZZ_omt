@@ -115,6 +115,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T093424Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T092842Z">
+        <seg>Il n’y a pas de &lt;g1&gt;bonne&lt;/g1&gt; réponse.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>How?</note>
       <tuv lang="en">
         <seg>To ensure consistency, the translator used the fuzzy matches and performed concordance searches.</seg>
