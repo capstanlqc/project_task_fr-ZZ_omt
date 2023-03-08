@@ -16,8 +16,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;Don’t Open This Email&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T102353Z" creationid="danina-lupsa" creationdate="20230116T193133Z">
-        <seg>N'ouvrez pas cet e-mail&lt;/g1&gt;</seg>
+      <tuv lang="fr-FR" changeid="souto" changedate="20230308T112042Z" creationid="danina-lupsa" creationdate="20230116T193133Z">
+        <seg>N&lt;g1&gt;'ouvrez pas cet e-mail&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,14 +120,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T102636Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T102636Z">
         <seg>l</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T093424Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T092842Z">
-        <seg>Il n’y a pas de &lt;g1&gt;bonne&lt;/g1&gt; réponse.</seg>
       </tuv>
     </tu>
     <tu>
