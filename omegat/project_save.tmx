@@ -8,7 +8,7 @@
       <tuv lang="en">
         <seg>....</seg>
       </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T193300Z" creationid="danina-lupsa" creationdate="20230116T193300Z">
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T193300Z" creationid="danina-lupsa" creationdate="20230116T193300Z">
         <seg>....</seg>
       </tuv>
     </tu>
@@ -16,7 +16,7 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;Don’t Open This Email&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="souto" changedate="20230307T162758Z" creationid="danina-lupsa" creationdate="20230116T193133Z">
+      <tuv lang="fr-FR" changeid="souto" changedate="20230307T162758Z" creationid="danina-lupsa" creationdate="20230116T193133Z">
         <seg>N'&lt;g1&gt;ouvrez pas cet e-mail&lt;/g1&gt;</seg>
       </tuv>
     </tu>
@@ -24,7 +24,7 @@
       <tuv lang="en">
         <seg>Dear subscriber,</seg>
       </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T193317Z" creationid="danina-lupsa" creationdate="20230116T193317Z">
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T193317Z" creationid="danina-lupsa" creationdate="20230116T193317Z">
         <seg>Cher abonné,</seg>
       </tuv>
     </tu>
@@ -32,7 +32,7 @@
       <tuv lang="en">
         <seg>Do you agree to take part?</seg>
       </tuv>
-      <tuv lang="fr" changeid="Danina Lupsa" changedate="20221212T140957Z" creationid="Danina Lupsa" creationdate="20221212T140957Z">
+      <tuv lang="fr-FR" changeid="Danina Lupsa" changedate="20221212T140957Z" creationid="Danina Lupsa" creationdate="20221212T140957Z">
         <seg>Vous souhaitez participer?</seg>
       </tuv>
     </tu>
@@ -40,7 +40,7 @@
       <tuv lang="en">
         <seg>Email message</seg>
       </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T192909Z" creationid="danina-lupsa" creationdate="20230116T192909Z">
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192909Z" creationid="danina-lupsa" creationdate="20230116T192909Z">
         <seg>Courriel</seg>
       </tuv>
     </tu>
@@ -48,7 +48,7 @@
       <tuv lang="en">
         <seg>How is your economic situation?</seg>
       </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T190934Z" creationid="danina-lupsa" creationdate="20230116T190934Z">
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T190934Z" creationid="danina-lupsa" creationdate="20230116T190934Z">
         <seg>Quelle est votre situation économique ?</seg>
       </tuv>
     </tu>
@@ -56,15 +56,31 @@
       <tuv lang="en">
         <seg>Library Catalog</seg>
       </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T192735Z" creationid="danina-lupsa" creationdate="20230116T192735Z">
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192735Z" creationid="danina-lupsa" creationdate="20230116T192735Z">
         <seg>Catalogue de la bibliothèque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather satisfied</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="ad" changedate="20230308T090234Z" creationid="ad" creationdate="20230308T090234Z">
+        <seg>Plutôt satisfait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="ad" changedate="20230308T090243Z" creationid="ad" creationdate="20230308T090243Z">
+        <seg>Plutôt pas satisfait</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Subject:</seg>
       </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T193321Z" creationid="danina-lupsa" creationdate="20230116T192753Z">
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T193321Z" creationid="danina-lupsa" creationdate="20230116T192753Z">
         <seg>Objet :</seg>
       </tuv>
     </tu>
@@ -72,7 +88,7 @@
       <tuv lang="en">
         <seg>The translator had to pay attention to formatting such as &lt;g1&gt;bold&lt;/g1&gt;, &lt;g2&gt;italics&lt;/g2&gt;, &lt;g3&gt;underline&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T214209Z" creationid="danina-lupsa" creationdate="20230116T214209Z">
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T214209Z" creationid="danina-lupsa" creationdate="20230116T214209Z">
         <seg>x</seg>
       </tuv>
     </tu>
@@ -80,15 +96,31 @@
       <tuv lang="en">
         <seg>The translator had to pay attention to formatting such as &lt;s0&gt;bold&lt;/s0&gt;, &lt;e1&gt;italics&lt;/e1&gt;, &lt;s2&gt;underline&lt;/s2&gt;.</seg>
       </tuv>
-      <tuv lang="fr" changeid="souto" changedate="20230307T162938Z" creationid="souto" creationdate="20230307T162938Z">
+      <tuv lang="fr-FR" changeid="souto" changedate="20230307T162938Z" creationid="souto" creationdate="20230307T162938Z">
         <seg>Le traducteur a dû prêter attention à la mise en forme telle que l'gras, l'&lt;s0&gt;italique, le soulignement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very satisfied</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="ad" changedate="20230308T090229Z" creationid="ad" creationdate="20230308T090229Z">
+        <seg>Très satisfait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very unsatisfied</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="ad" changedate="20230308T090250Z" creationid="ad" creationdate="20230308T090250Z">
+        <seg>Très insatisfait</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>What is your level of English as a foreign language?</seg>
       </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T194728Z" creationid="danina-lupsa" creationdate="20230116T191028Z">
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T194728Z" creationid="danina-lupsa" creationdate="20230116T191028Z">
         <seg>Quel est votre niveau d'anglais (langue étrangère) ?</seg>
       </tuv>
     </tu>
@@ -96,7 +128,7 @@
       <tuv lang="en">
         <seg>biotechnology</seg>
       </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T192851Z" creationid="danina-lupsa" creationdate="20230116T192851Z">
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192851Z" creationid="danina-lupsa" creationdate="20230116T192851Z">
         <seg>biotechnologie</seg>
       </tuv>
     </tu>
@@ -104,18 +136,28 @@
       <tuv lang="en">
         <seg>genetically modified</seg>
       </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T192823Z" creationid="danina-lupsa" creationdate="20230116T192823Z">
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192823Z" creationid="danina-lupsa" creationdate="20230116T192823Z">
         <seg>génétiquement modifié</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">07_municipalities.xlsx</prop>
+      <prop type="id">P147242AB-tu9_0</prop>
+      <tuv lang="en">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="ad" changedate="20230308T090303Z" creationid="ad" creationdate="20230308T090303Z">
+        <seg>Pas trop satisfait</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">rep-in-one-file.md</prop>
       <prop type="id">tu2_0</prop>
       <tuv lang="en">
         <seg>Good</seg>
       </tuv>
-      <tuv lang="fr" changeid="danina-lupsa" changedate="20230116T201859Z" creationid="danina-lupsa" creationdate="20230116T201859Z">
+      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T201859Z" creationid="danina-lupsa" creationdate="20230116T201859Z">
         <seg>Bonne</seg>
       </tuv>
     </tu>
