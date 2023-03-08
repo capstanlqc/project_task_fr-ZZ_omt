@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="styles.css"?><bq>
+  <itemGroup id="PA152" layout="" visible="true">
+    <subject>What is your level of English as a second language?</subject>
+    <instruction>Please select one response.</instruction>
+    <item id="item" layout="simpleMultipleChoiceRadioButton">
+      <responses>
+        <response>
+         
+          <label translate="no">Very good</label>
+        </response>
+        <response>
+       
+          <label translate="no">Good</label>
+        </response>
+        <response>
+     
+          <label keyx="123abc">
+            <text>Neither good nor bad</text>
+          </label>
+        </response>
+        <response>
+      
+          <label>Bad</label>
+        </response>
+        <response>
+       
+          <label translate="no">Very bad</label>
+        </response>
+     
+      </responses>
+    </item>
+	</itemGroup>
+</bq>
