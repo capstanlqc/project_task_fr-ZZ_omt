@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_eb74c0cd8" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>....</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T193300Z" creationid="danina-lupsa" creationdate="20230116T193300Z">
-        <seg>....</seg>
-      </tuv>
-    </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;Don’t Open This Email&lt;/g1&gt;</seg>
@@ -30,30 +22,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Dear subscriber,</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T193317Z" creationid="danina-lupsa" creationdate="20230116T193317Z">
-        <seg>Cher abonné,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Do you agree to take part?</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Danina Lupsa" changedate="20221212T140957Z" creationid="Danina Lupsa" creationdate="20221212T140957Z">
-        <seg>Vous souhaitez participer?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Email message</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192909Z" creationid="danina-lupsa" creationdate="20230116T192909Z">
-        <seg>Courriel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Generally speaking, please tell me &lt;g1&gt;how satisfied&lt;/g1&gt; you are with public transport where you live.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="ad" changedate="20230308T091906Z" creationid="ad" creationdate="20230308T091755Z">
@@ -64,22 +32,6 @@
       <note>What are non-breaking spaces?</note>
       <tuv lang="en">
         <seg>He also used non-breaking spaces, when needed.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>How is your economic situation?</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T190934Z" creationid="danina-lupsa" creationdate="20230116T190934Z">
-        <seg>Quelle est votre situation économique ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Library Catalog</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192735Z" creationid="danina-lupsa" creationdate="20230116T192735Z">
-        <seg>Catalogue de la bibliothèque</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,14 +48,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="ad" changedate="20230308T090243Z" creationid="ad" creationdate="20230308T090243Z">
         <seg>Plutôt pas satisfait</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Subject:</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T193321Z" creationid="danina-lupsa" creationdate="20230116T192753Z">
-        <seg>Objet :</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,30 +96,6 @@
         <seg>Très insatisfait</seg>
       </tuv>
     </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>What is your level of English as a foreign language?</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T194728Z" creationid="danina-lupsa" creationdate="20230116T191028Z">
-        <seg>Quel est votre niveau d'anglais (langue étrangère) ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>biotechnology</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192851Z" creationid="danina-lupsa" creationdate="20230116T192851Z">
-        <seg>biotechnologie</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>genetically modified</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T192823Z" creationid="danina-lupsa" creationdate="20230116T192823Z">
-        <seg>génétiquement modifié</seg>
-      </tuv>
-    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">07_municipalities.xlsx</prop>
@@ -185,16 +105,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="ad" changedate="20230308T090303Z" creationid="ad" creationdate="20230308T090303Z">
         <seg>Pas trop satisfait</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">rep-in-one-file.md</prop>
-      <prop type="id">tu2_0</prop>
-      <tuv lang="en">
-        <seg>Good</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="danina-lupsa" changedate="20230116T201859Z" creationid="danina-lupsa" creationdate="20230116T201859Z">
-        <seg>Bonne</seg>
       </tuv>
     </tu>
   </body>
