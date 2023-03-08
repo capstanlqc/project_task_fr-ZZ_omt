@@ -45,6 +45,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Generally speaking, please tell me &lt;g1&gt;how satisfied&lt;/g1&gt; you are with public transport where you live.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="ad" changedate="20230308T091810Z" creationid="ad" creationdate="20230308T091755Z">
+        <seg>De manière générale, dites-moi si à quel point &lt;/g1&gt;êtes-vous satisfait&lt;g1&gt; avec les transports publics là où vous vivez. </seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>What are non-breaking spaces?</note>
       <tuv lang="en">
         <seg>He also used non-breaking spaces, when needed.</seg>
