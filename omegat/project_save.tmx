@@ -45,6 +45,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>What are non-breaking spaces?</note>
+      <tuv lang="en">
+        <seg>He also used non-breaking spaces, when needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>How is your economic situation?</seg>
       </tuv>
