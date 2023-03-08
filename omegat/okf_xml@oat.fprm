@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<its:rules version="1.0" 
+  xmlns:its="http://www.w3.org/2005/11/its"
+  xmlns:itsx="http://www.w3.org/2008/12/its-extensions" 
+  xmlns:oat="http://www.imsglobal.org/xsd/imsqti_v2p2" 
+  xmlns:okp="okapi-framework:xmlfilter-options"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  >
+  <okp:options escapeGT="yes" escapeQuotes="no" lineBreakAsCode="no"/>
+  <!-- See ITS specification at: http://www.w3.org/TR/its/ -->
+
+  <its:translateRule selector="//keyx" translate="no"/>
+  <its:translateRule selector="//text" translate="yes" itsx:idValue="parent::label/@keyx" itsx:whiteSpaces="preserve" />
+  <its:withinTextRule selector="//sub|//sup|//img|//b|//i|//u|//span|//em|//strong" withinText="yes"/>
+ 
+  <!-- only for xpath 2.0 - not ITS compatible -->
+  <!-- <its:translateRule selector="//label[@translate='no']/text[matches(text(), '[^\s]*\.(svg|jpg|png)')]" translate="no"/> -->
+  <!-- for xpath 1.0 - ITS compatible but not robust -->  
+
+  <!-- <its:translateRule selector="//text[contains(text(), '.svg')][not(contains(text(), ' '))]" translate="no"/>  -->
+
+  <!-- the first condition is equivalent to ends-with(), which is XPath 2.0 only -->
+  <!-- https://stackoverflow.com/a/26217115/2095577 -->
+  <its:translateRule selector="//label/text['.svg' = substring(., string-length(.) - string-length('.svg') +1)][not(contains(text(), ' '))]" translate="no"/>
+  <its:translateRule selector="//label/text['.png' = substring(., string-length(.) - string-length('.png') +1)][not(contains(text(), ' '))]" translate="no"/>
+  <its:translateRule selector="//label/text['.jpg' = substring(., string-length(.) - string-length('.jpg') +1)][not(contains(text(), ' '))]" translate="no"/>
+
+  <!-- if image filenames were labeled, we could se this -->
+  <!-- 
+  <its:translateRule selector="//label[@translate='no']/text" translate="no"/>
+  <its:translateRule selector="//label[@type='filename']/text" translate="no"/> 
+  -->
+  
+  <okp:codeFinder useCodeFinder="yes">#v1
+    count.i=1
+    rule0=\{\{[\w:]+\}\}
+  </okp:codeFinder>
+  
+</its:rules>
