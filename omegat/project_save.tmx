@@ -14,14 +14,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Bad</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230309T131232Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230309T131232Z">
-        <seg>MauvaisE</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Carbon dioxide (CO₂) dissolves in seawater to form carbonic acid.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T162222Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T154550Z">
@@ -34,14 +26,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="ad" changedate="20230308T091906Z" creationid="ad" creationdate="20230308T091755Z">
         <seg>De manière générale, dites-moi si à quel point &lt;/g1&gt;vous êtes satisfait&lt;g1&gt; avec les transports publics là où vous vivez. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Good</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230309T131227Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230309T131223Z">
-        <seg>BonNE</seg>
       </tuv>
     </tu>
     <tu>
@@ -129,16 +113,6 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
-    <tu>
-      <prop type="file">01_qq_rep-in-one-file.md</prop>
-      <prop type="id">tu5_0</prop>
-      <tuv lang="en">
-        <seg>Good</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230309T131330Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230309T131330Z">
-        <seg>Bon</seg>
-      </tuv>
-    </tu>
     <tu>
       <prop type="file">07_municipalities.xlsx</prop>
       <prop type="id">P147242AB-tu9_0</prop>
