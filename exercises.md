@@ -179,8 +179,12 @@ Using the search function, try to find the following segments in the project:
 
 ## Section 08. QA checks: AM
 
-1. There are two segments with tag errors, can you find them?
-2. On which segment is there a glossary error?
+1. To make the QA checks, please go to **Tools > Check Issues**
+2. The QA checks menu opens, select "Tag issues" and "Terminology Issues" and press OK.
+
+
+    > @quiz: There are two segments with tag errors, can you find them?
+    > @quiz: Have you found the segment with a glossary error?
 
 
 ## Section 09. Download git project + commit target files + helpdesk
@@ -194,7 +198,7 @@ Using the search function, try to find the following segments in the project:
 >OmegaT will propose a default path for you, if that path is not suitable you can edit it to have the project created in your preferred location
 
 >**Note**
->We advise you to use an easy path to remember, such as `C:\Users\USER\Work`
+>We advise you to use an easy path to remember, such as `C:\Users\USER\Work`. We provide some tips [here](https://capstanlqc.github.io/omegat-guides/misc/tips/#file-organization){:target="_blank"}.
 
 5. Press OK, the project will be loaded after a few seconds.
 
