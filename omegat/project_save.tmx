@@ -140,6 +140,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">01_qq_rep-in-one-file.md</prop>
+      <prop type="id">tu6_0</prop>
+      <tuv lang="en">
+        <seg>Bad</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="cApStAn" changedate="20230309T134102Z" creationid="cApStAn" creationdate="20230309T134102Z">
+        <seg>Mauvais</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">07_municipalities.xlsx</prop>
       <prop type="id">P147242AB-tu9_0</prop>
       <tuv lang="en">
