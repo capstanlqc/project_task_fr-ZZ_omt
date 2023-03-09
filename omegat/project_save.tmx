@@ -83,6 +83,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="cApStAn" changedate="20230309T153917Z" creationid="cApStAn" creationdate="20230309T153917Z">
+        <seg>Il n’y a pas de &lt;g1&gt;bonne&lt;/g1&gt; réponse.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>How?</note>
       <tuv lang="en">
         <seg>To ensure consistency, the translator used the fuzzy matches and performed concordance searches.</seg>
