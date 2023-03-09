@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Don’t Open This Email&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="souto" changedate="20230308T124934Z" creationid="danina-lupsa" creationdate="20230116T193133Z">
+        <seg>N&lt;g1&gt;'ouvrez pas cet &lt;/g1&gt;e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Carbon dioxide (CO₂) dissolves in seawater to form carbonic acid.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="TRA_fr-FR_mhonkou" changedate="20230308T162222Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T154550Z">
+        <seg>Le dioxyde de carbone (CO2) se dissout dans l'eau de mer pour former de l'acide carbonique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Generally speaking, please tell me &lt;g1&gt;how satisfied&lt;/g1&gt; you are with public transport where you live.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="ad" changedate="20230308T091906Z" creationid="ad" creationdate="20230308T091755Z">
+        <seg>De manière générale, dites-moi si à quel point &lt;/g1&gt;vous êtes satisfait&lt;g1&gt; avec les transports publics là où vous vivez. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>What are non-breaking spaces?</note>
+      <tuv lang="en">
+        <seg>He also used non-breaking spaces, when needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How is your economic situation?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="souto" changedate="20230309T100337Z" creationid="souto" creationdate="20230309T100337Z">
+        <seg>Quelle est votre situation économique ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather satisfied</seg>
+      </tuv>
+      <tuv lang="fr" changeid="ad" changedate="20230308T090234Z" creationid="ad" creationdate="20230308T090234Z">
+        <seg>Plutôt satisfait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather unsatisfied</seg>
+      </tuv>
+      <tuv lang="fr" changeid="ad" changedate="20230308T090243Z" creationid="ad" creationdate="20230308T090243Z">
+        <seg>Plutôt pas satisfait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The population density is 62 people per km² in 2023.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="TRA_fr-FR_mhonkou" changedate="20230308T162209Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T155116Z">
+        <seg>La densité de population est de 62 personnes par km2 en 2023.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translator had to pay attention to formatting such as &lt;g1&gt;bold&lt;/g1&gt;, &lt;g2&gt;italics&lt;/g2&gt;, &lt;g3&gt;underline&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="souto" changedate="20230308T143300Z" creationid="danina-lupsa" creationdate="20230116T214209Z">
+        <seg>Le traducteur a dû prêter attention au formatage tel que le gras, l'italique, le soulignement&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>How?</note>
+      <tuv lang="en">
+        <seg>To ensure consistency, the translator used the fuzzy matches and performed concordance searches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very satisfied</seg>
+      </tuv>
+      <tuv lang="fr" changeid="ad" changedate="20230308T090229Z" creationid="ad" creationdate="20230308T090229Z">
+        <seg>Très satisfait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very unsatisfied</seg>
+      </tuv>
+      <tuv lang="fr" changeid="ad" changedate="20230308T090250Z" creationid="ad" creationdate="20230308T090250Z">
+        <seg>Très insatisfait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is your level of English as a foreign language?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="souto" changedate="20230309T100342Z" creationid="souto" creationdate="20230309T100342Z">
+        <seg>Quel est votre niveau d'anglais en tant que langue étrangère ?</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
