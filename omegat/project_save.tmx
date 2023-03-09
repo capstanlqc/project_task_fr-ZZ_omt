@@ -14,14 +14,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Bad</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="cApStAn" changedate="20230309T133349Z" creationid="cApStAn" creationdate="20230309T133349Z">
-        <seg>MauvaisE</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Carbon dioxide (CO₂) dissolves in seawater to form carbonic acid.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T162222Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T154550Z">
@@ -34,22 +26,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="ad" changedate="20230308T091906Z" creationid="ad" creationdate="20230308T091755Z">
         <seg>De manière générale, dites-moi si à quel point &lt;/g1&gt;vous êtes satisfait&lt;g1&gt; avec les transports publics là où vous vivez. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Generally speaking, please tell me &lt;g1&gt;how satisfied&lt;/g1&gt; you are with schools and other educational facilities where you live.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230309T144531Z" creationid="souto" creationdate="20230309T144531Z">
-        <seg>aadsfadfa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Good</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230309T134343Z" creationid="cApStAn" creationdate="20230309T133336Z">
-        <seg>BonNE</seg>
       </tuv>
     </tu>
     <tu>
@@ -137,26 +113,6 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
-    <tu>
-      <prop type="file">01_qq_rep-in-one-file.md</prop>
-      <prop type="id">tu5_0</prop>
-      <tuv lang="en">
-        <seg>Good</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="cApStAn" changedate="20230309T133820Z" creationid="cApStAn" creationdate="20230309T133820Z">
-        <seg>Bon</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">01_qq_rep-in-one-file.md</prop>
-      <prop type="id">tu6_0</prop>
-      <tuv lang="en">
-        <seg>Bad</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="cApStAn" changedate="20230309T134102Z" creationid="cApStAn" creationdate="20230309T134102Z">
-        <seg>Mauvais</seg>
-      </tuv>
-    </tu>
     <tu>
       <prop type="file">07_municipalities.xlsx</prop>
       <prop type="id">P147242AB-tu9_0</prop>
