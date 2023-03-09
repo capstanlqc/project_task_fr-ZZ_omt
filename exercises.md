@@ -194,7 +194,7 @@ Using the search function, try to find the following segments in the project:
 >OmegaT will propose a default path for you, if that path is not suitable you can edit it to have the project created in your preferred location
 
 >**Note**
->We advise you to use an easy path to remember, such as a folder in your Documents folder
+>We advise you to use an easy path to remember, such as `C:\Users\USER\Work`
 
 5. Press OK, the project will be loaded after a few seconds.
 
