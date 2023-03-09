@@ -14,14 +14,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Bad</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="cApStAn" changedate="20230309T115124Z" creationid="cApStAn" creationdate="20230309T115124Z">
-        <seg>MauvaisE</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Carbon dioxide (CO₂) dissolves in seawater to form carbonic acid.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230308T162222Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T154550Z">
@@ -34,14 +26,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="ad" changedate="20230308T091906Z" creationid="ad" creationdate="20230308T091755Z">
         <seg>De manière générale, dites-moi si à quel point &lt;/g1&gt;vous êtes satisfait&lt;g1&gt; avec les transports publics là où vous vivez. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Good</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="TRA_fr-FR_mhonkou" changedate="20230309T131059Z" creationid="cApStAn" creationdate="20230309T115049Z">
-        <seg>BonNE</seg>
       </tuv>
     </tu>
     <tu>
