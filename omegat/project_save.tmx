@@ -209,6 +209,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">01_qq_rep-in-one-file.md</prop>
+      <prop type="id">tu6_0</prop>
+      <tuv lang="en">
+        <seg>Bad</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="VER" changedate="20230310T153547Z" creationid="VER" creationdate="20230310T153547Z">
+        <seg>Mauvais</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">07_municipalities.xlsx</prop>
       <prop type="id">P147242AB-tu9_0</prop>
       <tuv lang="en">
