@@ -146,8 +146,8 @@
       <tuv lang="en">
         <seg>Thermal conductivity coefficient &lt;br/&gt;(W/m × K)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="cApStAn" changedate="20230309T162419Z" creationid="cApStAn" creationdate="20230309T162419Z">
-        <seg>×</seg>
+      <tuv lang="fr-FR" changeid="VER" changedate="20230313T151231Z" creationid="cApStAn" creationdate="20230309T162419Z">
+        <seg>Thermal conductivity coefficient &lt;br/&gt;(W/m × K)</seg>
       </tuv>
     </tu>
     <tu>
