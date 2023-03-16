@@ -1,6 +1,6 @@
 How is your economic situation?
 - Good
-- MauvaiSE
+- Bad
 
 Quel est votre niveau d'anglais en tant que langue étrangère ?
 - Bon
