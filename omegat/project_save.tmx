@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -58,14 +58,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="souto" changedate="20230309T160914Z" creationid="souto" creationdate="20230309T160914Z">
         <seg>remove this translation if you see it</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>How is your economic situation?</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Andres" changedate="20230316T153837Z" creationid="Rizagul" creationdate="20230316T152331Z">
-        <seg>ccc</seg>
       </tuv>
     </tu>
     <tu>
