@@ -61,6 +61,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>How is your economic situation?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="thomd" changedate="20230316T151938Z" creationid="thomd" creationdate="20230316T151938Z">
+        <seg>ccc</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>remove</note>
       <tuv lang="en">
         <seg>No</seg>
