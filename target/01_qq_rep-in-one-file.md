@@ -1,7 +1,7 @@
-Quelle est votre situation économique ?
-- Good
-- Bad
+xxxxxxx
+- კარგი© π  
+- MauvaiSE
 
-Quel est votre niveau d'anglais (langue étrangère) ?
-- Good
-- Bad
+Quel est votre niveau d'anglais en tant que langue étrangère ?
+- Bon
+- Mauvais

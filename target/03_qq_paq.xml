@@ -2,7 +2,7 @@
 <?xml-stylesheet href="styles.css"?><bq>
   <itemGroup id="PA152" layout="" visible="true">
     <subject>What is your level of English as a second language?</subject>
-    <instruction>Please select one response.</instruction>
+    <instruction>remove this translation if you see it</instruction>
     <item id="item" layout="simpleMultipleChoiceRadioButton">
       <responses>
         <response>
@@ -11,7 +11,7 @@
         </response>
         <response>
        
-          <label translate="no">Good</label>
+          <label translate="no">კარგი© π  </label>
         </response>
         <response>
      
@@ -21,7 +21,7 @@
         </response>
         <response>
       
-          <label>Bad</label>
+          <label>MauvaiSE</label>
         </response>
         <response>
        

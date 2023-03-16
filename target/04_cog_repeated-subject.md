@@ -1,18 +1,18 @@
-# Courriel
-Objet :
+# Email message
+Subject:
 
-N*'ouvrez pas cet *e-mail
+*N'ouvrez pas cet e-mail*
 
-Cher abonné,
+Dear subscriber,
 
 ....
 
-# Catalogue de la bibliothèque
+# Library Catalog
 
 |   |   |
 ---------|--------------------
-| Objet : | génétiquement modifié |
-| Objet : | biotechnologie |
+| Subject: | genetically modified |
+| Subject: | biotechnology |
 
 
 

@@ -1,6 +1,6 @@
-añldskfjñ
+Pteropod Shells
 
-Le dioxyde de carbone (CO\sub2) se dissout dans l'eau de mer pour former de l'acide carbonique.
+Le dioxyde de carbone (CO₂) se dissout dans l'eau de mer pour former de l'acide carbonique.
 
 The process is known as ocean acidification.
 
@@ -10,4 +10,4 @@ Water is ‘saturated’ if the maximum amount of a solute is dissolved in it.
 
 Water is ‘undersaturated’ if it contains less than the maximum amount of dissolved solute.
 
-Coefficient de conductivité thermique <br/>(W/m × K)
+Thermal conductivity coefficient <br/>(W/m ٠ K)
