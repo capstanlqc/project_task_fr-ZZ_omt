@@ -6,14 +6,6 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
-        <seg>&lt;g1&gt;Don’t Open This Email&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="cApStAn" changedate="20230309T161157Z" creationid="danina-lupsa" creationdate="20230116T193133Z">
-        <seg>&lt;g1&gt;N'ouvrez pas cet e-mail&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Carbon dioxide (CO₂) dissolves in seawater to form carbonic acid.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="cApStAn" changedate="20230309T162229Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T154550Z">
