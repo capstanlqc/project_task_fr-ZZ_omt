@@ -38,6 +38,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Good</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Rizagul" changedate="20230316T152404Z" creationid="Rizagul" creationdate="20230316T152404Z">
+        <seg>dfdf</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>What are non-breaking spaces?</note>
       <tuv lang="en">
         <seg>He also used non-breaking spaces, when needed.</seg>
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="souto" changedate="20230309T160914Z" creationid="souto" creationdate="20230309T160914Z">
         <seg>remove this translation if you see it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How is your economic situation?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Rizagul" changedate="20230316T152331Z" creationid="Rizagul" creationdate="20230316T152331Z">
+        <seg>hghghghg</seg>
       </tuv>
     </tu>
     <tu>
