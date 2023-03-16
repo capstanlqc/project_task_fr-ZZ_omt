@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Bad</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="DENECKERC" changedate="20230316T153039Z" creationid="souto" creationdate="20230309T162049Z">
+        <seg>Mauvaise</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en">
         <seg>Carbon dioxide (CO₂) dissolves in seawater to form carbonic acid.</seg>
@@ -33,8 +41,8 @@
       <tuv lang="en">
         <seg>Good</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Rizagul" changedate="20230316T152404Z" creationid="Rizagul" creationdate="20230316T152404Z">
-        <seg>dfdf</seg>
+      <tuv lang="fr-FR" changeid="DENECKERC" changedate="20230316T153047Z" creationid="DENECKERC" creationdate="20230316T153015Z">
+        <seg>Bonne</seg>
       </tuv>
     </tu>
     <tu>
