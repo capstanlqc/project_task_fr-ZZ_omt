@@ -1,7 +1,7 @@
 # Email message
 Subject:
 
-*N'ouvrez pas cet e-mail*
+*Don’t Open This Email*
 
 Dear subscriber,
 
