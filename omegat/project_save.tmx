@@ -122,8 +122,8 @@
       <tuv lang="en">
         <seg>The translator had to pay attention to formatting such as &lt;g1&gt;bold&lt;/g1&gt;, &lt;g2&gt;italics&lt;/g2&gt;, &lt;g3&gt;underline&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="cApStAn" changedate="20230309T161708Z" creationid="danina-lupsa" creationdate="20230116T214209Z">
-        <seg>Le traducteur a dû prêter attention au formatage tel que &lt;g1&gt;le gras&lt;/g1&gt;, &lt;g2&gt;l'italique&lt;/g2&gt;, &lt;g3&gt;le soulignement&lt;/g3&gt;</seg>
+      <tuv lang="fr-FR" changeid="user" changedate="20230603T074414Z" creationid="danina-lupsa" creationdate="20230116T214209Z">
+        <seg>Tarjimon &lt;g1&gt;qalin xarflar&lt;/g1&gt;, &lt;g2&gt;kursiv yozish&lt;/g2&gt;, &lt;g3&gt;tagiga chizish&lt;/g3&gt; kabi formatlarga e'tibor qaratishi lozim.</seg>
       </tuv>
     </tu>
     <tu>
