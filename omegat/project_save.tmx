@@ -219,6 +219,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">02_qq_economics.html</prop>
+      <prop type="id">tu12_0</prop>
+      <tuv lang="en">
+        <seg>Good</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="user" changedate="20230603T071507Z" creationid="user" creationdate="20230603T071507Z">
+        <seg>Ploxaya</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">07_municipalities.xlsx</prop>
       <prop type="id">P147242AB-tu9_0</prop>
       <tuv lang="en">
