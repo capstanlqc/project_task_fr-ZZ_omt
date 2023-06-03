@@ -197,6 +197,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>What is your level of English as a second language?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="user" changedate="20230603T073253Z" creationid="user" creationdate="20230603T072613Z">
+        <seg>Quel est votre niveau d'anglais en tant que langue étrangère ?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>remove</note>
       <tuv lang="en">
         <seg>Yes</seg>
