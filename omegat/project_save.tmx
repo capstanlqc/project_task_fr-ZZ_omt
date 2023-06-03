@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Very bad</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="user" changedate="20230603T072415Z" creationid="user" creationdate="20230603T072415Z">
+        <seg>Très bad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Very satisfied</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="ad" changedate="20230308T090229Z" creationid="ad" creationdate="20230308T090229Z">
