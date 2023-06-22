@@ -38,14 +38,6 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
-        <seg>Good</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="DENECKERC" changedate="20230316T153047Z" creationid="DENECKERC" creationdate="20230316T153015Z">
-        <seg>Bonne</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>What are non-breaking spaces?</note>
       <tuv lang="en">
         <seg>He also used non-breaking spaces, when needed.</seg>
