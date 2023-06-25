@@ -176,8 +176,8 @@
       <tuv lang="en">
         <seg>Welcome to this survey!</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="user" changedate="20230316T152818Z" creationid="souto" creationdate="20230309T151238Z">
-        <seg> this translation if you see it</seg>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T111106Z" creationid="souto" creationdate="20230309T151238Z">
+        <seg>أهلا وسهلا بكم في هذه الدراسة</seg>
       </tuv>
     </tu>
     <tu>
