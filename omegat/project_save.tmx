@@ -82,6 +82,9 @@
       <tuv lang="en">
         <seg>He also used non-breaking spaces, when needed.</seg>
       </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120752Z">
+        <seg>كما أنه استخدم مساحات غير قابلة للكسر عند الحاجة.</seg>
+      </tuv>
     </tu>
     <tu>
       <note>matches</note>
@@ -196,6 +199,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="souto" changedate="20230307T162938Z" creationid="souto" creationdate="20230307T162938Z">
         <seg>Le traducteur a dû prêter attention à la mise en forme telle que l'gras, l'&lt;s0&gt;italique, le soulignement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translator had to pay attention to “quotation marks”.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120500Z" creationid="USER" creationdate="20230625T120500Z">
+        <seg>على المترجم </seg>
       </tuv>
     </tu>
     <tu>
