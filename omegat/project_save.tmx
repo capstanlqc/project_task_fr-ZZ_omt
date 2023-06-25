@@ -114,8 +114,8 @@
       <tuv lang="en">
         <seg>The translator had to pay attention to formatting such as &lt;g1&gt;bold&lt;/g1&gt;, &lt;g2&gt;italics&lt;/g2&gt;, &lt;g3&gt;underline&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="user" changedate="20230603T075006Z" creationid="danina-lupsa" creationdate="20230116T214209Z">
-        <seg>Tarjimon &lt;g1&gt;qalin xarflar&lt;/g1&gt;, &lt;g2&gt;kursiv yozish&lt;/g2&gt;, &lt;g3&gt;tagiga chizish&lt;/g3&gt; kabi formatlarga e'tibor qaratishi lozim.</seg>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T114410Z" creationid="danina-lupsa" creationdate="20230116T214209Z">
+        <seg>على المترجم ان ياخذ بالاعتبار للتنسيق مثل &lt;g1&gt;الغامق&lt;/g1&gt; &lt;g2&gt;والمائل&lt;/g2&gt; &lt;g3&gt;وما تحته خط&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
