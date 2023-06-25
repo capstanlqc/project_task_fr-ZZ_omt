@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>....</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120207Z" creationid="USER" creationdate="20230625T120207Z">
+        <seg>....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Don’t Open This Email&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120143Z" creationid="USER" creationdate="20230625T120143Z">
+        <seg>&lt;g1&gt;لا تفتح هذا البريد الالكتروني&lt;/g1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="USER" changedate="20230625T115921Z" creationid="souto" creationdate="20230309T162049Z">
@@ -18,6 +34,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="cApStAn" changedate="20230309T162229Z" creationid="TRA_fr-FR_mhonkou" creationdate="20230308T154550Z">
         <seg>Le dioxyde de carbone (CO₂) se dissout dans l'eau de mer pour former de l'acide carbonique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dear subscriber,</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120202Z" creationid="USER" creationdate="20230625T120202Z">
+        <seg>عزيزي المشترك،</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Library Catalog</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120222Z" creationid="USER" creationdate="20230625T120222Z">
+        <seg>دليل المكتبة</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Neither good nor bad</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="USER" changedate="20230625T120040Z" creationid="USER" creationdate="20230625T120040Z">
@@ -91,6 +123,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="USER" changedate="20230625T104927Z" creationid="souto" creationdate="20230309T151243Z">
         <seg>تremove this translation if you see it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once upon a time there was a translator who worked in OmegaT.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120310Z" creationid="USER" creationdate="20230625T120310Z">
+        <seg>مترجم واحد فقط يعمل على اويغا ت في المرة الواحجدة</seg>
       </tuv>
     </tu>
     <tu>
@@ -124,6 +164,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="ad" changedate="20230308T090243Z" creationid="ad" creationdate="20230308T090243Z">
         <seg>Plutôt pas satisfait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subject:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120113Z" creationid="USER" creationdate="20230625T120113Z">
+        <seg>الموضوع:</seg>
       </tuv>
     </tu>
     <tu>
@@ -235,6 +283,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="souto" changedate="20230309T151242Z" creationid="souto" creationdate="20230309T151242Z">
         <seg>remove this translation if you see it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>biotechnology</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120240Z" creationid="USER" creationdate="20230625T120240Z">
+        <seg>التكنولوجيا الحيوية</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
