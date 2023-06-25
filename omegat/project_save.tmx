@@ -208,6 +208,16 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">01_qq_rep-in-one-file.md</prop>
+      <prop type="id">tu2_0</prop>
+      <tuv lang="en">
+        <seg>Good</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T105529Z" creationid="USER" creationdate="20230625T105529Z">
+        <seg>حسن </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">01_qq_rep-in-one-file.md</prop>
       <prop type="id">tu5_0</prop>
       <tuv lang="en">
         <seg>Good</seg>
