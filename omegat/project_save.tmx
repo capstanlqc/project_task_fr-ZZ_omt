@@ -33,8 +33,8 @@
       <tuv lang="en">
         <seg>Generally speaking, please tell me &lt;g1&gt;how satisfied&lt;/g1&gt; you are with public transport where you live.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="ME" changedate="20230316T150428Z" creationid="ad" creationdate="20230308T091755Z">
-        <seg>De manière générale, dites-moi si &lt;g1&gt;à quel point&lt;/g1&gt; vous êtes satisfait avec les transports publics là où vous vivez. </seg>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T114729Z" creationid="ad" creationdate="20230308T091755Z">
+        <seg>بصورة عام  من فضلك اخبرني الى اي مدى انت &lt;g1&gt;راض عن&lt;/g1&gt; النقل العام في مكان سكنك</seg>
       </tuv>
     </tu>
     <tu>
