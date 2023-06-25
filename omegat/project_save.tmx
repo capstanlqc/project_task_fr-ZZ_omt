@@ -192,8 +192,8 @@
       <tuv lang="en">
         <seg>What is your level of English as a second language?</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="user" changedate="20230603T073253Z" creationid="user" creationdate="20230603T072613Z">
-        <seg>Quel est votre niveau d'anglais en tant que langue étrangère ?</seg>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T113855Z" creationid="user" creationdate="20230603T072613Z">
+        <seg>ما مستوى لغتك الانجليزية كلغة ثانية</seg>
       </tuv>
     </tu>
     <tu>
