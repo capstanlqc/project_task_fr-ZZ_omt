@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>Bad</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="USER" changedate="20230625T112654Z" creationid="souto" creationdate="20230309T162049Z">
-        <seg>badMauvaise</seg>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T115921Z" creationid="souto" creationdate="20230309T162049Z">
+        <seg>سيء</seg>
       </tuv>
     </tu>
     <tu>
@@ -31,10 +31,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Email message</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120107Z" creationid="USER" creationdate="20230625T120107Z">
+        <seg>رسالة ايميل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Generally speaking, please tell me &lt;g1&gt;how satisfied&lt;/g1&gt; you are with public transport where you live.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="USER" changedate="20230625T114729Z" creationid="ad" creationdate="20230308T091755Z">
         <seg>بصورة عام  من فضلك اخبرني الى اي مدى انت &lt;g1&gt;راض عن&lt;/g1&gt; النقل العام في مكان سكنك</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Good</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120031Z" creationid="USER" creationdate="20230625T120031Z">
+        <seg>جيد</seg>
       </tuv>
     </tu>
     <tu>
@@ -61,6 +77,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Neither good nor bad</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120040Z" creationid="USER" creationdate="20230625T120040Z">
+        <seg>ليس جيدا ولا سيئا</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>remove</note>
       <tuv lang="en">
         <seg>No</seg>
@@ -74,8 +98,8 @@
       <tuv lang="en">
         <seg>Please select one response.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230309T151241Z" creationid="souto" creationdate="20230309T151241Z">
-        <seg>remove this translation if you see it</seg>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120019Z" creationid="souto" creationdate="20230309T151241Z">
+        <seg>من فضلك اختر اجابة واحدة</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +176,16 @@
       <tuv lang="en">
         <seg>Very bad</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="user" changedate="20230603T072415Z" creationid="user" creationdate="20230603T072415Z">
-        <seg>Très bad</seg>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120056Z" creationid="user" creationdate="20230603T072415Z">
+        <seg>جيد جدا</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very good</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T120028Z" creationid="USER" creationdate="20230625T120028Z">
+        <seg>جيد جدا</seg>
       </tuv>
     </tu>
     <tu>
@@ -244,6 +276,16 @@
       </tuv>
       <tuv lang="fr-FR" changeid="user" changedate="20230603T071507Z" creationid="user" creationdate="20230603T071507Z">
         <seg>Ploxaya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">02_qq_economics.html</prop>
+      <prop type="id">tu14_0</prop>
+      <tuv lang="en">
+        <seg>Bad</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T115223Z" creationid="USER" creationdate="20230625T115223Z">
+        <seg>سيء</seg>
       </tuv>
     </tu>
     <tu>
