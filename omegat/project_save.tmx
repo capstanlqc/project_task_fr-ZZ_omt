@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>Bad</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="DENECKERC" changedate="20230316T153039Z" creationid="souto" creationdate="20230309T162049Z">
-        <seg>Mauvaise</seg>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T112654Z" creationid="souto" creationdate="20230309T162049Z">
+        <seg>badMauvaise</seg>
       </tuv>
     </tu>
     <tu>
