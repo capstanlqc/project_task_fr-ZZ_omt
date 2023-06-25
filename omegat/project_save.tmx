@@ -25,6 +25,9 @@
       <tuv lang="en">
         <seg>Do you agree to take part?</seg>
       </tuv>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T110741Z" creationid="souto" creationdate="20230309T151239Z">
+        <seg>t</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="en">
@@ -62,8 +65,8 @@
       <tuv lang="en">
         <seg>No</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="souto" changedate="20230309T151243Z" creationid="souto" creationdate="20230309T151243Z">
-        <seg>remove this translation if you see it</seg>
+      <tuv lang="fr-FR" changeid="USER" changedate="20230625T104927Z" creationid="souto" creationdate="20230309T151243Z">
+        <seg>تremove this translation if you see it</seg>
       </tuv>
     </tu>
     <tu>
