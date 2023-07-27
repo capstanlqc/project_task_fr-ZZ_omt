@@ -1,7 +1,8 @@
-commit56
-- Bonne
-- Mauvaise
+أهلا وسهلا بكم في هذا اللقاء
+- حسن 
+- سيء
 
-Quel est votre niveau d'anglais en tant que langue étrangère ?
+
+Quel est votre niveau d'anglais en tant que langue étrangère ? ?
 - XXBon
-- Mauvais
+- bad

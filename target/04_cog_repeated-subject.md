@@ -1,18 +1,18 @@
-# Email message
-Subject:
+# رسالة ايميل
+الموضوع:
 
-*Don’t Open This Email*
+*لا تفتح هذا البريد الالكتروني* 
 
-Dear subscriber,
+عزيزي المشترك،
 
 ....
 
-# Library Catalog
+# دليل المكتبة
 
 |   |   |
 ---------|--------------------
-| Subject: | genetically modified |
-| Subject: | biotechnology |
+| الموضوع: | genetically modified |
+| الموضوع: | التكنولوجيا الحيوية |
 
 
 

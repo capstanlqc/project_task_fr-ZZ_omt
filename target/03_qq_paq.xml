@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="styles.css"?><bq>
   <itemGroup id="PA152" layout="" visible="true">
-    <subject>What is your level of English as a second language?</subject>
-    <instruction>remove this translation if you see it</instruction>
+    <subject>ما مستوى لغتك الانجليزية كلغة ثانية</subject>
+    <instruction>من فضلك اختر اجابة واحدة</instruction>
     <item id="item" layout="simpleMultipleChoiceRadioButton">
       <responses>
         <response>
          
-          <label translate="no">Very good</label>
+          <label translate="no">جيد جدا</label>
         </response>
         <response>
        
-          <label translate="no">Bonne</label>
+          <label translate="no">جيد</label>
         </response>
         <response>
      
           <label keyx="123abc">
-            <text>Neither good nor bad</text>
+            <text>ليس جيدا ولا سيئا</text>
           </label>
         </response>
         <response>
       
-          <label>Mauvaise</label>
+          <label>سيء</label>
         </response>
         <response>
        
-          <label translate="no">Very bad</label>
+          <label translate="no">جيد جدا</label>
         </response>
      
       </responses>
