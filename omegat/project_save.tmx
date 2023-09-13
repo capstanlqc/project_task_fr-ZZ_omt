@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>Bad</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="USER" changedate="20230625T115921Z" creationid="souto" creationdate="20230309T162049Z">
-        <seg>سيء</seg>
+      <tuv lang="fr-FR" changeid="mkipchirchir" changedate="20230913T225139Z" creationid="souto" creationdate="20230309T162049Z">
+        <seg>Bad</seg>
       </tuv>
     </tu>
     <tu>
@@ -275,9 +275,9 @@
       <tuv lang="en">
         <seg>What is your level of English as a foreign language?</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="USER" changedate="20230625T115135Z" creationid="souto" creationdate="20230309T100342Z">
+      <tuv lang="fr-FR" changeid="mkipchirchir" changedate="20230913T225238Z" creationid="souto" creationdate="20230309T100342Z">
         <seg>
-Quel est votre niveau d'anglais en tant que langue étrangère ? ?</seg>
+What is your level of English as a foreign language?</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +312,8 @@ Quel est votre niveau d'anglais en tant que langue étrangère ? ?</seg>
       <tuv lang="en">
         <seg>Good</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="USER" changedate="20230625T105529Z" creationid="USER" creationdate="20230625T105529Z">
-        <seg>حسن </seg>
+      <tuv lang="fr-FR" changeid="mkipchirchir" changedate="20230913T225050Z" creationid="USER" creationdate="20230625T105529Z">
+        <seg>Good</seg>
       </tuv>
     </tu>
     <tu>
