@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>Bad</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="mkipchirchir" changedate="20230913T225139Z" creationid="souto" creationdate="20230309T162049Z">
-        <seg>Bad</seg>
+      <tuv lang="fr-FR" changeid="maria.radunsky" changedate="20231002T205627Z" creationid="souto" creationdate="20230309T162049Z">
+        <seg>Mala</seg>
       </tuv>
     </tu>
     <tu>
@@ -99,8 +99,8 @@
       <tuv lang="en">
         <seg>How is your economic situation?</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="maria.radunsky" changedate="20231002T205552Z" creationid="Rizagul" creationdate="20230316T152331Z">
-        <seg>Cuál es tu situación económica?</seg>
+      <tuv lang="fr-FR" changeid="maria.radunsky" changedate="20231002T205638Z" creationid="Rizagul" creationdate="20230316T152331Z">
+        <seg>Cómo es tu situación económica?</seg>
       </tuv>
     </tu>
     <tu>
@@ -275,9 +275,8 @@
       <tuv lang="en">
         <seg>What is your level of English as a foreign language?</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="mkipchirchir" changedate="20230913T225238Z" creationid="souto" creationdate="20230309T100342Z">
-        <seg>
-What is your level of English as a foreign language?</seg>
+      <tuv lang="fr-FR" changeid="maria.radunsky" changedate="20231002T205711Z" creationid="souto" creationdate="20230309T100342Z">
+        <seg>Cuál es tu nivel de inglés como lengua extranjera?</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,8 +311,8 @@ What is your level of English as a foreign language?</seg>
       <tuv lang="en">
         <seg>Good</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="mkipchirchir" changedate="20230913T225050Z" creationid="USER" creationdate="20230625T105529Z">
-        <seg>Good</seg>
+      <tuv lang="fr-FR" changeid="maria.radunsky" changedate="20231002T205617Z" creationid="USER" creationdate="20230625T105529Z">
+        <seg>Buena</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,8 +321,8 @@ What is your level of English as a foreign language?</seg>
       <tuv lang="en">
         <seg>Good</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="keea" changedate="20230316T152232Z" creationid="VER" creationdate="20230310T153420Z">
-        <seg>XXBon</seg>
+      <tuv lang="fr-FR" changeid="maria.radunsky" changedate="20231002T205719Z" creationid="VER" creationdate="20230310T153420Z">
+        <seg>Buena</seg>
       </tuv>
     </tu>
     <tu>
@@ -332,8 +331,8 @@ What is your level of English as a foreign language?</seg>
       <tuv lang="en">
         <seg>Bad</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="USER" changedate="20230625T112950Z" creationid="VER" creationdate="20230310T153547Z">
-        <seg>bad</seg>
+      <tuv lang="fr-FR" changeid="maria.radunsky" changedate="20231002T205722Z" creationid="VER" creationdate="20230310T153547Z">
+        <seg>Mala</seg>
       </tuv>
     </tu>
     <tu>
