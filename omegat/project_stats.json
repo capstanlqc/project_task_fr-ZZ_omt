@@ -1,0 +1,256 @@
+{
+  "date": "20240807T134904Z",
+  "total": {
+    "characters-without-spaces": 1848,
+    "characters": 2111,
+    "words": 330,
+    "files": 7,
+    "segments": 67
+  },
+  "unique-remaining": {
+    "characters-without-spaces": 719,
+    "characters": 834,
+    "words": 126,
+    "files": 5,
+    "segments": 11
+  },
+  "unique": {
+    "characters-without-spaces": 1647,
+    "characters": 1897,
+    "words": 296,
+    "files": 7,
+    "segments": 46
+  },
+  "project": {
+    "root": "C:/Users/VTURNS3/Desktop/project_task_fr-ZZ_omt/",
+    "source-language": "en",
+    "target-language": "fr-FR",
+    "name": "project_task_fr-ZZ_omt"
+  },
+  "files": [
+    {
+      "total": {
+        "characters-without-spaces": 84,
+        "characters": 97,
+        "words": 19,
+        "files": 0,
+        "segments": 6
+      },
+      "filename": "01_qq_rep-in-one-file.md",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 77,
+        "characters": 90,
+        "words": 17,
+        "files": 0,
+        "segments": 4
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 195,
+        "characters": 224,
+        "words": 43,
+        "files": 0,
+        "segments": 14
+      },
+      "filename": "02_qq_economics.html",
+      "unique-remaining": {
+        "characters-without-spaces": 20,
+        "characters": 24,
+        "words": 5,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 183,
+        "characters": 212,
+        "words": 39,
+        "files": 0,
+        "segments": 10
+      },
+      "remaining": {
+        "characters-without-spaces": 20,
+        "characters": 24,
+        "words": 5,
+        "files": 0,
+        "segments": 1
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 105,
+        "characters": 122,
+        "words": 24,
+        "files": 0,
+        "segments": 7
+      },
+      "filename": "03_qq_paq.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 59,
+        "characters": 71,
+        "words": 14,
+        "files": 0,
+        "segments": 2
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 128,
+        "characters": 135,
+        "words": 17,
+        "files": 0,
+        "segments": 10
+      },
+      "filename": "04_cog_repeated-subject.md",
+      "unique-remaining": {
+        "characters-without-spaces": 19,
+        "characters": 20,
+        "words": 2,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 112,
+        "characters": 119,
+        "words": 15,
+        "files": 0,
+        "segments": 8
+      },
+      "remaining": {
+        "characters-without-spaces": 19,
+        "characters": 20,
+        "words": 2,
+        "files": 0,
+        "segments": 1
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 542,
+        "characters": 626,
+        "words": 92,
+        "files": 0,
+        "segments": 8
+      },
+      "filename": "05_the_translator.html",
+      "unique-remaining": {
+        "characters-without-spaces": 305,
+        "characters": 352,
+        "words": 51,
+        "files": 0,
+        "segments": 4
+      },
+      "unique": {
+        "characters-without-spaces": 542,
+        "characters": 626,
+        "words": 92,
+        "files": 0,
+        "segments": 8
+      },
+      "remaining": {
+        "characters-without-spaces": 305,
+        "characters": 352,
+        "words": 51,
+        "files": 0,
+        "segments": 4
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 326,
+        "characters": 382,
+        "words": 63,
+        "files": 0,
+        "segments": 7
+      },
+      "filename": "06_cog_chemistry_sub2.txt",
+      "unique-remaining": {
+        "characters-without-spaces": 176,
+        "characters": 208,
+        "words": 35,
+        "files": 0,
+        "segments": 3
+      },
+      "unique": {
+        "characters-without-spaces": 326,
+        "characters": 382,
+        "words": 63,
+        "files": 0,
+        "segments": 7
+      },
+      "remaining": {
+        "characters-without-spaces": 176,
+        "characters": 208,
+        "words": 35,
+        "files": 0,
+        "segments": 3
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 468,
+        "characters": 525,
+        "words": 72,
+        "files": 0,
+        "segments": 15
+      },
+      "filename": "07_qq_municipalities.xlsx",
+      "unique-remaining": {
+        "characters-without-spaces": 199,
+        "characters": 230,
+        "words": 33,
+        "files": 0,
+        "segments": 2
+      },
+      "unique": {
+        "characters-without-spaces": 348,
+        "characters": 397,
+        "words": 56,
+        "files": 0,
+        "segments": 7
+      },
+      "remaining": {
+        "characters-without-spaces": 199,
+        "characters": 230,
+        "words": 33,
+        "files": 0,
+        "segments": 2
+      }
+    }
+  ],
+  "remaining": {
+    "characters-without-spaces": 719,
+    "characters": 834,
+    "words": 126,
+    "files": 5,
+    "segments": 11
+  }
+}
