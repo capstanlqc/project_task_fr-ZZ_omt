@@ -1,8 +1,7 @@
-أهلا وسهلا بكم في هذا اللقاء
-- حسن 
-- سيء
+Cómo es tu situación económica?
+- Buena
+- Mala
 
-
-Quel est votre niveau d'anglais en tant que langue étrangère ? ?
-- XXBon
-- bad
+Cuál es tu nivel de inglés como lengua extranjera?
+- Buena
+- Mala
